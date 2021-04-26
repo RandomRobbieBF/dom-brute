@@ -728,9 +728,7 @@ ceo
 cern
 certmgr.org
 cesena-forli.it
-cesena-forlì.it
 cesenaforli.it
-cesenaforlì.it
 cf
 cfa
 cfd
@@ -1644,25 +1642,11 @@ foo
 food
 foodnetwork
 football
-for-better.biz
-for-more.biz
-for-our.info
-for-some.biz
-for-the.biz
-for.men
-for.mom
-for.one
-for.sale
 ford
 forde.no
 forex
 forgeblocks.com
-forgot.her.name
-forgot.his.name
-forli-cesena.it
-forlì-cesena.it
 forlicesena.it
-forlìcesena.it
 forsale
 forsand.no
 fortal.br
@@ -2258,7 +2242,6 @@ in-vpn.de
 in-vpn.net
 in-vpn.org
 in.eu.org
-in.london
 in.na
 in.net
 in.ni
@@ -3576,9 +3559,7 @@ odesa.ua
 odessa.ua
 odo.br
 of.by
-of.fashion
 of.je
-of.london
 of.no
 off
 off.ai
@@ -3998,7 +3979,6 @@ pomorskie.pl
 pomorze.pl
 poniatowa.pl
 ponpes.id
-pony.club
 pordenone.it
 porn
 porsanger.no
@@ -4832,7 +4812,6 @@ tf
 tg
 tgory.pl
 th
-that.win
 thd
 the.br
 theater
@@ -5013,7 +4992,6 @@ ulsan.kr
 ulvik.no
 umb.it
 umbria.it
-under.one
 uni5.net
 unicloud.pl
 unicom
@@ -5170,8 +5148,6 @@ vipsinaapp.com
 virgin
 virtual-user.de
 virtualserver.io
-virtualuser.de
-virtueeldomein.nl
 visa
 vision
 viterbo.it
