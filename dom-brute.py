@@ -68,7 +68,7 @@ if os.path.exists(urls):
 				try:
 					URL = "http://"+prefix+"."+suffix+""
 					grab_file (URL,prefix,suffix)
-					os.system("docker run --rm -v $(pwd):/data leonjza/gowitness gowitness file -f data/"+prefix+"-domains-200.txt")
+					
 				except KeyboardInterrupt:
 					print ("Ctrl-c pressed ...")
 					sys.exit(1)
@@ -76,3 +76,5 @@ if os.path.exists(urls):
 					print('Error: %s' % e)
 					pass
 		f.close()
+
+os.system("docker run --rm -v $(pwd):/data leonjza/gowitness gowitness file -f data/"+prefix+"-domains-200.txt")
