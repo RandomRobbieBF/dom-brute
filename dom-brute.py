@@ -77,4 +77,4 @@ if os.path.exists(urls):
 					pass
 		f.close()
 
-os.system("docker run --rm -v $(pwd):/data leonjza/gowitness gowitness file -f data/"+prefix+"-domains-200.txt")
+os.system("docker run --rm -v $(pwd):/data leonjza/gowitness gowitness file -f /data/"+prefix+"-domains-200.txt")
